@@ -17,7 +17,7 @@ termux-setup-storage
 cd /sdcard
 git clone https://github.com/CrizZapp/Abram-Bot
 
-## 5. Descomprimir el ZIP (si tu bot usa contraseña)
+## 5. Descomprimir el ZIP 
 Contraseña del ZIP: CrisZapp
 
 ## 6. Entrar a la carpeta del bot
