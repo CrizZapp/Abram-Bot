@@ -21,7 +21,7 @@ git clone https://github.com/CrizZapp/Abram-Bot
 Contraseña del ZIP: CrisZapp
 
 ## 6. Entrar a la carpeta del bot
-cd CrisBot-Base
+cd /storage/emulated/0/CrisBot-Base/Abram-Bot/CrisBot/CrisBot-Base/
 
 ## 7. Instalar módulos
 npm install
